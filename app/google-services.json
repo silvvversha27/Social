@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073397877834",
+    "project_id": "basesocial-c6a1e",
+    "storage_bucket": "basesocial-c6a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073397877834:android:62367eb27ab82780fa2ab3",
+        "android_client_info": {
+          "package_name": "com.example.socialnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWkg9JOUwbIsgFgiCWVU0dalY4iTqhmEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
